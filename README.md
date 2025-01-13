@@ -6,3 +6,5 @@ O intuito foi adquirir experiência com a representação de dados em tempo real
 Vale ressaltar que para que o valor digitado no bloco de notas de fato apareça no gráfico, deve-se salvar o arquivo escrito no bloco de notas. Dessa forma, a abscissa do ponto correspondente ao valor x digitado no bloco de notas será o tempo decorrido (em segundos) desde a inicialização do programa até a o instante em que a alteração em que o valor de x foi adicionado no bloco de notas foi salva.
 
 O arquivo dadoslive.txt se trata de um arquivo txt vazio.
+
+Link do vídeo no qual comento sobre o código e a aplicabilidade do software: https://www.youtube.com/watch?v=waHFIJ1nK_E
